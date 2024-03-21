@@ -1,3 +1,3 @@
 - 👋 Hello, I’m @amandaguthrie!
 - 👀 I’m interested in expanding my coding skills for both professional and personal growth.
-- 🌱 I’m currently increasing my knowledge of newer CSS features, Javascript/Typescript, Node, React, and Svelte.
+- 🌱 I’m currently increasing my knowledge of Go, Javascript/Typescript, Node, React, and Svelte.
